@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Stuti 👋🏾 👩🏾‍💻
+
+<img src="https://github.com/stuti-sanghavi/stuti-sanghavi/blob/master/readme/photo.jpg">
+
+
+
 
 <!--
 **Stuti-Sanghavi/Stuti-Sanghavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
