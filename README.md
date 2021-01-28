@@ -5,7 +5,7 @@ I'm currently pursuing my Master's in Business Analytics and graduating in March
 
 Worked as an Analytics intern at Calix in the summer of '20, where I automated the process of calculating the forecast for child products with SQL and Excel, which helped saved approximately 8 hours per planning cycle. 
 
-During the year of 2020, worked on a practicum project with Lam to automate the information gathering and classification process for the technology scouts. My team and I used Python to build web scraping tools to collect the information on companies of interest and applied machine learning techniques to classify them according to Lam’s taxonomies.
+During the year of 2020, worked on a practicum project with Lam Research to automate the information gathering and classification process for the technology scouts. My team and I used Python to build web scraping tools to collect the information on companies of interest and applied machine learning techniques to classify them according to Lam’s taxonomies.
 
 ## Languages and Tools:
 
