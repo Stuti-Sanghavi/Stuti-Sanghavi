@@ -1,7 +1,7 @@
 <img src = https://github.com/Stuti-Sanghavi/Stuti-Sanghavi/blob/main/header.png alt="Stuti Sanghavi Data Analyst">
 
 
-I recently graduated from my Master's in Business Analytics program from Santa Clara University. I am currently looking for full time opportunities in the field of Analytics and Data Science. 
+I recently graduated from my Master's in Business Analytics program from Santa Clara University. I am a Senior Associate at Tredence Inc where I work for the largest retailer in the World. 
 
 Worked as an Analytics intern at Calix in the summer of '20, where I automated the process of calculating the forecast for child products with SQL and Excel, which helped saved approximately 8 hours per planning cycle. 
 
